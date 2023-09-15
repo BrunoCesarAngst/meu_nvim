@@ -1,5 +1,7 @@
 {
   "github.accessToken": "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",
+  "github.enableHoverInformation": true,
+  "github.enableCodeLens": true,
   "explorer.file.showHiddenFiles": true,
   "git.addGBlameToVirtualText": true,
   "git.addGBlameToBufferVar": true,
